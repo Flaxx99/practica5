@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+=======
+Zombieland
+Interestelar
+Terrifer
+>>>>>>> 58723a81750bdf21e88f060b2d4092c5fca409b6
 Pasta
 Pizza
 Hamburguesas
 Lasaña
+<<<<<<< HEAD
 Zombieland
 Interestelar
 Terrifer
+=======
+>>>>>>> 58723a81750bdf21e88f060b2d4092c5fca409b6
 
